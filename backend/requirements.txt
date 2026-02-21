@@ -1,0 +1,4 @@
+# Backend requirements for Telegram-TTS
+fastapi
+uvicorn
+kokoro-tts
